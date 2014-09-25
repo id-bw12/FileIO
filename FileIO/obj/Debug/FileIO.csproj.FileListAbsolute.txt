@@ -1,0 +1,12 @@
+C:\Users\Eddie\Desktop\CISC 193 -- C# F2013\New folder\FileIO\FileIO\bin\Debug\FileIO.exe.config
+C:\Users\Eddie\Desktop\CISC 193 -- C# F2013\New folder\FileIO\FileIO\bin\Debug\FileIO.exe
+C:\Users\Eddie\Desktop\CISC 193 -- C# F2013\New folder\FileIO\FileIO\bin\Debug\FileIO.pdb
+C:\Users\Eddie\Desktop\CISC 193 -- C# F2013\New folder\FileIO\FileIO\obj\Debug\FileIO.csprojResolveAssemblyReference.cache
+C:\Users\Eddie\Desktop\CISC 193 -- C# F2013\New folder\FileIO\FileIO\obj\Debug\FileIO.Form1.resources
+C:\Users\Eddie\Desktop\CISC 193 -- C# F2013\New folder\FileIO\FileIO\obj\Debug\FileIO.Properties.Resources.resources
+C:\Users\Eddie\Desktop\CISC 193 -- C# F2013\New folder\FileIO\FileIO\obj\Debug\FileIO.csproj.GenerateResource.Cache
+C:\Users\Eddie\Desktop\CISC 193 -- C# F2013\New folder\FileIO\FileIO\obj\Debug\FileIO.exe
+C:\Users\Eddie\Desktop\CISC 193 -- C# F2013\New folder\FileIO\FileIO\obj\Debug\FileIO.pdb
+C:\Users\Eddie\Desktop\Programing\CISC 193 -- C# F2013\FileIO\FileIO\bin\Debug\FileIO.exe.config
+C:\Users\Eddie\Desktop\Programing\CISC 193 -- C# F2013\FileIO\FileIO\obj\Debug\FileIO.exe
+C:\Users\Eddie\Desktop\Programing\CISC 193 -- C# F2013\FileIO\FileIO\obj\Debug\FileIO.pdb
